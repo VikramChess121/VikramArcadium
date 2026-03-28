@@ -1,0 +1,44 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "thumbnail": "https://picsum.photos/seed/2048/300/200",
+    "iframeUrl": "https://play2048.co/",
+    "category": "Puzzle"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "thumbnail": "https://picsum.photos/seed/tetris/300/200",
+    "iframeUrl": "https://tetris.com/play-tetris",
+    "category": "Classic"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "thumbnail": "https://picsum.photos/seed/flappy/300/200",
+    "iframeUrl": "https://flappybird.io/",
+    "category": "Arcade"
+  },
+  {
+    "id": "snake",
+    "title": "Snake",
+    "thumbnail": "https://picsum.photos/seed/snake/300/200",
+    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html",
+    "category": "Classic"
+  },
+  {
+    "id": "crossy-road",
+    "title": "Crossy Road",
+    "thumbnail": "https://picsum.photos/seed/crossy/300/200",
+    "iframeUrl": "https://poki.com/en/g/crossy-road",
+    "category": "Arcade"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "thumbnail": "https://picsum.photos/seed/slope/300/200",
+    "iframeUrl": "https://slopegame.online/",
+    "category": "Action"
+  }
+]
